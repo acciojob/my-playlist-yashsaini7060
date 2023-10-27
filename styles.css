@@ -36,9 +36,19 @@ a{
 
 .player_one{
 	width: 95%;
-	background-color: rgb(255, 255, 255);
+	padding:  0px;
+	border-radius: 20px;
+	background-color: white;
 }
 
 .player_two{
-	padding; border-radius;
+	padding:  0px;
+	border-radius: 20px;
+	background-color: white;
 }
+
+
+
+
+
+
